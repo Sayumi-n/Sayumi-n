@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayumi</h1>
 <h3 align="center">Solutions Engineer/ Problem Solver/ React Developer</h3>
 
-- 🌱 I’m currently learning **AWS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayumi-n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayumi-n" height="30" width="40" /></a>
